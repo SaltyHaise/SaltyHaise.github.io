@@ -9,7 +9,7 @@ website:
     logo: logo.png
     left:
       - text: "Home"
-        href: temp_website.qmd
+        href: index.qmd
       - text: "About"
         href: about.qmd
 
