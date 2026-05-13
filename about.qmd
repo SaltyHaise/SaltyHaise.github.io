@@ -1,0 +1,9 @@
+---
+title: "temp_website"
+---
+
+## Quarto
+
+::: {style="float:left; position: relative; top: 0px"}
+![](img/photo_6059786259082711145_y.jpg){height="100px" style="margin-right: 10px; align: left"}
+:::

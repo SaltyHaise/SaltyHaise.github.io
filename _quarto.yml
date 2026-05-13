@@ -1,6 +1,22 @@
 project:
   title: "temp_website"
-  output-dir: "docs"
+  output-dir: docs
 
+website:
+  title: "temp_website"
+  favicon: favicon.png
+  navbar:
+    logo: logo.png
+    left:
+      - text: "Home"
+        href: temp_website.qmd
+      - text: "About"
+        href: about.qmd
 
-
+format:
+  html:
+    theme: lumen
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    toc-location: left
